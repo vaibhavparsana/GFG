@@ -3,6 +3,7 @@ package Array;
 import javax.sound.sampled.SourceDataLine;
 
 public class rotate {
+    //rotate
     public static void main(String[] args) {
         int arr[]= {1,2,3,4,5};
         int d=2;
